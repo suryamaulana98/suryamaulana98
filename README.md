@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryamaulana98&label=Profile%20views&color=0e75b6&style=flat" alt="suryamaulana98" /> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" align="right" width="450">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" align="right" width="400">
 - 🌱 I’m currently learning **Laravel framewrok, vue js**
 
 - 👨‍💻 All of my projects are available at [https://suryamaulana12.github.io/](https://suryamaulana12.github.io/)
@@ -27,4 +27,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=suryamaulana98&" alt="suryamaulana98" /></p>
 
-<p align="center" style="margin-top: 40px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamaulana98&show_icons=true&locale=en&layout=compact" alt="suryamaulana98" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamaulana98&show_icons=true&locale=en&layout=compact" alt="suryamaulana98" /></p>
