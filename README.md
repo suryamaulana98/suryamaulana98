@@ -25,11 +25,5 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suryamaulana98&show_icons=true&locale=en&layout=compact" alt="suryamaulana98" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=suryamaulana98&show_icons=true&locale=en" alt="suryamaulana98" /></p>
-
-
-
 
 
