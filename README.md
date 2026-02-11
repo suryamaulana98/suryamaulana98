@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coding" align="right" width="350">
 - 🌱 I’m currently learning **Laravel framewrok, vue js**
 
-- 👨‍💻 All of my projects are available at [https://suryamaulana12.github.io/](https://surya-portfolio.rf.gd/)
+- 👨‍💻 All of my projects are available at [https://surya-portfolio.rf.gd/](https://surya-portfolio.rf.gd/)
 
 - 💬 Ask me about **laravel, vue, javascript, PHP**
 
