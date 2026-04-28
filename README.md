@@ -7,10 +7,7 @@
 
 <br>
 
-<!-- ABOUT + GIF (AMAN, TIDAK NABRAK) -->
-<table>
-<tr>
-<td width="60%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="300" hspace="20"/>
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Laravel & Vue.js**  
@@ -18,15 +15,7 @@
 - 💬 Ask me about **Laravel, Vue, JavaScript, PHP**  
 - 📫 Email: **suryamaulana757@gmail.com**
 
-</td>
-
-<td width="40%" align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300"/>
-</td>
-</tr>
-</table>
-
-<br>
+<br clear="right"/>
 
 ---
 
