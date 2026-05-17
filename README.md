@@ -21,12 +21,8 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/surya-maulana-akhmad">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin-right:30px;"/>
-  </a>
-  <a href="https://instagram.com/suryamaulnaa44">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin-right:10px;"/>
-  </a>
 </p>
 
 <br>
