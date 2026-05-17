@@ -29,8 +29,8 @@
 
 <p align="center">
     <a href="https://github.com/suryamaulana98">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryamaulana98&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryamaulana98&layout=compact&langs_count=8&theme=transparent"/>
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryamaulana98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryamaulana98&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
