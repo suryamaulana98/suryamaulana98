@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=suryamaulana98&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="300" hspace="20"/>
 
 ### 🚀 About Me
@@ -15,27 +13,17 @@
 - 💬 Ask me about **Laravel, Vue, JavaScript, PHP**  
 - 📫 Email: **suryamaulana757@gmail.com**
 
-
----
-
 ### 🤝 Connect with me
 <p align="left">
-    <a href="https://linkedin.com/in/rahuldkjain](https://linkedin.com/in/surya-maulana-akhmad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surya" height="30" width="40" /></a>
-    <a href="https://instagram.com/rahul_dk_jain](https://instagram.com/suryamaulnaa44" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="surya" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/surya-maulana-akhmad-32a68a309/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surya" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/suryamaulnaa44/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="surya" height="30" width="40" /></a>
 </p>
-
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryamaulana98&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryamaulana98&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
-
-
-
----
 
 ### 🛠️ Languages and Tools
 <p align="left">
