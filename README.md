@@ -7,11 +7,15 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="300" hspace="20"/>
 
+<br>
+
 ### 🚀 About Me
 - 🌱 I’m currently learning **Laravel & Vue.js**  
 - 👨‍💻 Portfolio: https://surya-portfolio.rf.gd/  
 - 💬 Ask me about **Laravel, Vue, JavaScript, PHP**  
 - 📫 Email: **suryamaulana757@gmail.com**
+
+<br>
 
 ### 🤝 Connect with me
 <p align="left">
@@ -19,11 +23,15 @@
     <a href="https://www.instagram.com/suryamaulnaa44/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="surya" height="30" width="40" /></a>
 </p>
 
+<br>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suryamaulana98&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryamaulana98&layout=compact&theme=github_dark&hide_border=true" height="165"/>
 </p>
+
+<br>
 
 ### 🛠️ Languages and Tools
 <p align="left">
