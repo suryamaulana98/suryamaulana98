@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=suryamaulana98&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="right" width="300" hspace="20"/>
+<img src="https://private-user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg5OTM5NzQsIm5iZiI6MTc3ODk5MzY3NCwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg4MzQtNzI5MDMzMjQtY2Y1Ny00ZTkwLTgwYTYtZWQzYzk3MzRlMGVkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTE3VDA0NTQzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVkNmIwNzVkMTlkMzgxMmQxOGZiMWYxYWM0YmMxZDg2NGVkNzdjOTU3NzcxNjQwNjhlZTdhMmFkZGFkMzFiMzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.NLlzRFDiP8Jfc01nxdxlGjBVibwgpTGbYSVA_SJJ_Ws" align="right" width="300" hspace="20"/>
 
 
 ### 🚀 About Me
@@ -18,8 +18,8 @@
 
 ### 🤝 Connect with me
 <p align="left">
-    <a href="https://www.linkedin.com/in/surya-maulana-akhmad-32a68a309/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="surya" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/suryamaulnaa44/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="surya" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/surya-maulana-akhmad-32a68a309/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="surya" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/suryamaulnaa44/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="surya" height="30" width="40" /></a>
 </p>
 
 <br>
