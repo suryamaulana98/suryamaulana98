@@ -5,23 +5,25 @@
   <img src="https://komarev.com/ghpvc/?username=suryamaulana98&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td valign="top" width="65%">
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🌱 I’m currently learning <strong>Laravel & Vue.js</strong></li>
-        <li>👨‍💻 Portfolio: <a href="https://surya-portfolio.rf.gd/" target="_blank">https://surya-portfolio.rf.gd/</a></li>
-        <li>💬 Ask me about <strong>Laravel, Vue, JavaScript, PHP</strong></li>
-        <li>📫 Email: <a href="mailto:suryamaulana757@gmail.com"><strong>suryamaulana757@gmail.com</strong></a></li>
-      </ul>
-    </td>
-    <td valign="top" align="right" width="35%">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="max-width: 100%; display: block;" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin: 20px 0;">
+  
+  <div style="flex: 1; min-width: 280px;">
+    <h3 style="margin-top: 0;">🚀 About Me</h3>
+    <ul>
+      <li>🌱 I’m currently learning <strong>Laravel & Vue.js</strong></li>
+      <li>👨‍💻 Portfolio: <a href="https://surya-portfolio.rf.gd/" target="_blank">https://surya-portfolio.rf.gd/</a></li>
+      <li>💬 Ask me about <strong>Laravel, Vue, JavaScript, PHP</strong></li>
+      <li>📫 Email: <a href="mailto:suryamaulana757@gmail.com"><strong>suryamaulana757@gmail.com</strong></a></li>
+    </ul>
+  </div>
 
+  <div style="flex-shrink: 0;">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="max-width: 100%; display: block; border-radius: 8px;" />
+  </div>
+
+</div>
+
+<div style="clear: both;"></div>
 <br>
 
 ### 🤝 Connect with me
