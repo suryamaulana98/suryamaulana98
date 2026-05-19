@@ -5,25 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=suryamaulana98&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
 
-<div align="center">
-  
-  <div style="display: inline-block; vertical-align: top; text-align: left; width: 55%; min-width: 300px; margin-right: 20px;">
-    <h3>🚀 About Me</h3>
-    <ul>
-      <li>🌱 I’m currently learning <strong>Laravel & Vue.js</strong></li>
-      <li>👨‍💻 Portfolio: <a href="https://surya-portfolio.rf.gd/" target="_blank">https://surya-portfolio.rf.gd/</a></li>
-      <li>💬 Ask me about <strong>Laravel, Vue, JavaScript, PHP</strong></li>
-      <li>📫 Email: <a href="mailto:suryamaulana757@gmail.com"><strong>suryamaulana757@gmail.com</strong></a></li>
-    </ul>
-  </div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" hspace="30" style="margin-bottom: 100px; margin-right: -50px" />
 
-  <div style="display: inline-block; vertical-align: top;">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" style="margin-top: 15px; margin-bottom: 20px;" />
-  </div>
+### 🚀 About Me
+- 🌱 I’m currently learning **Laravel & Vue.js**
+- 👨‍💻 Portfolio: https://surya-portfolio.rf.gd/
+- 💬 Ask me about **Laravel, Vue, JavaScript, PHP**
+- 📫 Email: **suryamaulana757@gmail.com**
 
-</div>
-
-<div style="clear: both;"></div>
+<br clear="both">
 <br>
 
 ### 🤝 Connect with me
