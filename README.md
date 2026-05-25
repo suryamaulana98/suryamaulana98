@@ -28,9 +28,17 @@
 
 <p align="center">
     <a href="https://github.com/suryamaulana98">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=suryamaulana98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suryamaulana98&layout=compact&langs_count=8&theme=dracula"/>
+    <img height="170" src="https://github-readme-stats.shion.dev/api?username=suryamaulana98&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img height="170" src="https://streak-stats.demolab.com/?user=suryamaulana98&theme=nightowl&hide_border=false"/>
   </a>
+   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suryamaulana98&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
+<br>
+
+### 🏆 GitHub Trophies
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=suryamaulana98&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 <br>
