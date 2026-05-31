@@ -24,18 +24,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<p align="center">
-    <a href="https://github.com/suryamaulana98">
-    <img height="170" src="https://github-readme-stats.shion.dev/api?username=suryamaulana98&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img height="170" src="https://streak-stats.demolab.com/?user=suryamaulana98&theme=nightowl&hide_border=false"/>
-  </a>
-   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suryamaulana98&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
-
-<br>
-
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -55,3 +43,17 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"/>
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45"/>
 </p>
+
+<br>
+
+### 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/suryamaulana98">
+    <img height="170" src="https://github-readme-stats.shion.dev/api?username=suryamaulana98&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/>
+    <img height="170" src="https://streak-stats.demolab.com/?user=suryamaulana98&theme=nightowl&hide_border=false"/>
+  </a>
+   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=suryamaulana98&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+
+
